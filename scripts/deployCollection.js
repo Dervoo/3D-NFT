@@ -9,9 +9,7 @@ async function main() {
   const Nft = await hre.ethers.getContractFactory('Nft');
     const uris = [
     "https://jsonkeeper.com/b/LQXT",
-    // "https://jsonkeeper.com/b/BLPT",
     "https://jsonkeeper.com/b/MJ8Q",
-    // "https://jsonkeeper.com/b/7TRH"
 
     
 ];
